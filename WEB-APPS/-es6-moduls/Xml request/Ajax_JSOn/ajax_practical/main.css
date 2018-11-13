@@ -1,0 +1,11 @@
+div {
+    float:left;
+    margin:10px;
+    width:33%;
+    box-sizing: border-box;
+}
+.header {
+    width:100%;
+    margin-top:30px;
+    margin-bottom:50px;
+}
